@@ -1,0 +1,135 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/bggo/DebTop/commit/a66046656ea001bea589b7b8bc988f7ec9d68544\"><strong>a</strong>66046656ea001bea589b7b8bc988f7ec9d68544</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/arista-netdevops-community/cvp-in-gcp/commit/abaee3711e8d854e2852981a35eb461a8d1a1c36\"><strong>ab</strong>aee3711e8d854e2852981a35eb461a8d1a1c36</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/arista-netdevops-community/cvp-in-gcp/commit/abce0cb4f542d6684fa27613e815cde183e252bb\"><strong>abc</strong>e0cb4f542d6684fa27613e815cde183e252bb</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 2 times.",
+    "body": "- <a href=\"https://github.com/diegolima/DebTop/commit/2c301a0536529a96c58deada8233a3af8c5decd0\">2c301a0536529a96c58<strong>dead</strong>a8233a3af8c5decd0</a>\n- <a href=\"https://github.com/bggo/DebTop/commit/2c301a0536529a96c58deada8233a3af8c5decd0\">2c301a0536529a96c58<strong>dead</strong>a8233a3af8c5decd0</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/diegolima/puppet-zabbix/commit/64c799b287e74a1bbbfb02df668f26f8ff35d627\">64c799b</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/diegolima/CloudVisionPortal-Examples/commit/3ac4665317ee93d9ec53ba18743e90eec388d60a\">3ac4665</a>\n- <a href=\"https://github.com/arista-netdevops-community/CloudVisionPortal-Examples/commit/3ac4665317ee93d9ec53ba18743e90eec388d60a\">3ac4665</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"merge\".",
+    "body": "My favorite commit message words are:\n\n1. merge (used 78 times)\n2. add (used 77 times)\n3. commit (used 58 times)\n4. added (used 58 times)\n5. initial (used 53 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-aws/commit/8dbac9a53435b59fdea88efa71ab6090106e04bb\">8dbac9a</a>: Fix aws profile configuration\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-aws/commit/31426ef4a69b76cfd8bfe882024a0a8beda634c3\">31426ef</a>: Fix aws profile configuration",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-gcp/commit/0181034b9628cfa79ee0a44bd08c9db0998117d9\">0181034</a>: Fix image entrypoint\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-gcp/commit/9e60b813f0674b7d0ec943dff51ce91469ae56f6\">9e60b81</a>: Fix image entrypoint\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-gcp/commit/1a7d45243011485bbec3fdba080a200e505f1d2b\">1a7d452</a>: Fix image entrypoint\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-gcp/commit/06d96d8a09668c0db885c252ffb71234f6396ec5\">06d96d8</a>: Fix image entrypoint\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-gcp/commit/13f3a47dce9c8bcd35312b84b19ab58431830607\">13f3a47</a>: Fix image entrypoint\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-gcp/commit/80613d847499af41e9b1de831ef0703f40b72918\">80613d8</a>: Fix image name",
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/diegolima/puppet-uptimerobot/commit/0a045f88dc9e504dc244ef2a9eda2736988ac000\">0a045f8</a>: Fix paths for Ubuntu\n- <a href=\"https://github.com/diegolima/puppet-uptimerobot/commit/cda426533ebbb7ab718664a663478b47c3daab67\">cda4265</a>: Fix paths for Ubuntu\n- <a href=\"https://github.com/diegolima/puppet-uptimerobot/commit/5b1bf89e2fec4692cd66dd2c32188a952d51d697\">5b1bf89</a>: Fix paths for Ubuntu\n- <a href=\"https://github.com/diegolima/puppet-uptimerobot/commit/0c39e0d49661df95fa2c14cf9deb7ef75d8afba8\">0c39e0d</a>: Fix README",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/diegolima/tabletop-xcom/commit/6f3302c12dba270e124f74427bad1d04c059be40\">6f3302c</a>\n- <a href=\"https://github.com/diegolima/tabletop-xcom/commit/fb100e2aa5e1e049b7672a58e924b50a2c01c5eb\">fb100e2</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/cloud-custodian/cloud-custodian/issues/5967\">#5967</a>: Cannot filter Azure object storage by UsedCapacity metric",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 7 my own repositories.",
+    "body": "- <a href=\"https://github.com/diegolima/ZMAMS\">diegolima/ZMAMS</a>\n- <a href=\"https://github.com/diegolima/spkmus\">diegolima/spkmus</a>\n- <a href=\"https://github.com/diegolima/SysCompare\">diegolima/SysCompare</a>\n- <a href=\"https://github.com/diegolima/SysProof\">diegolima/SysProof</a>\n- <a href=\"https://github.com/diegolima/zmmigrate_spamassassin\">diegolima/zmmigrate_spamassassin</a>\n- <a href=\"https://github.com/diegolima/Zmbkpose\">diegolima/Zmbkpose</a>\n- <a href=\"https://github.com/diegolima/zmlivesync\">diegolima/zmlivesync</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-gcp/commit/82f20df339b7c11e63549e120895f790a9bddc04\">82f20df</a>\n- <a href=\"https://github.com/arista-netdevops-community/cvp-space-recovery/commit/b726491ae54b04aa522379b532aabfdfe7c8f209\">b726491</a>\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-gcp/commit/2ae7903c41e78adad9f37d02cb550c13fb1d7e7f\">2ae7903</a>\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-gcp/commit/abce0cb4f542d6684fa27613e815cde183e252bb\">abce0cb</a>\n- <a href=\"https://github.com/diegolima/la-collector/commit/b39acd8115513588c901a3b83c534df63bea5850\">b39acd8</a>\n- <a href=\"https://github.com/diegolima/la-collector/commit/e9de7b9439fd5e805ba42cf04a9e054904759b86\">e9de7b9</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/diegolima/ainalyzer/commit/a9b5d0ed0f77a143f7cc021d8ef781f41034a3c7\">a9b5d0e</a>\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-gcp/commit/e7964dca174786d10acf221196a085b31ebbabcc\">e7964dc</a>\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-gcp/commit/3f25611abe57051e3672aaf1c52de3ec1f2edaac\">3f25611</a>\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-aws/commit/cc5d15b8424f98ce46810f3ba94a1cb9f4b14fd9\">cc5d15b</a>\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-aws/commit/7f5bf980bc34cd50abcdc22b65ee913a29648495\">7f5bf98</a>\n- <a href=\"https://github.com/arista-netdevops-community/cvp-in-aws/commit/66f9a604189a60831b121a22dad469f2640b6f19\">66f9a60</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
